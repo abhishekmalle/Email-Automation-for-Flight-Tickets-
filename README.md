@@ -21,4 +21,4 @@ FLASK_APP=textrunner.py python3 -m flask run --host=0.0.0.0 --port=80
 then go to 0.0.0.0:80 in your browser and you should have access.
 
 # Contributing
-Contributors are welcome, please see 
+Contributors are welcome, please see [the Contributing Guide](CONTRIBUTING.md)
